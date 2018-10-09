@@ -1,0 +1,21 @@
+{
+	"time": "Tue Oct 09 2018 18:44:22 GMT-0400 (EDT)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "cfdbb632b90380172dea5f41dcd64aa4dad2c3ed0aa80a075a56d73263e2a19b",
+	"changesRequireBuildTime": "Tue Oct 09 2018 18:42:19 GMT-0400 (EDT)",
+	"appFilesHashes": {
+		"/Users/katiepratt/Documents/Repos/nativescript/test-proj/app/app-root-alt.js": "ea439d9f7876f2a5782decfa2179a7e8f1f001f0",
+		"/Users/katiepratt/Documents/Repos/nativescript/test-proj/app/app-root-alt.xml": "bec39f1b43a04a3117012f946a3f63b6254b31ba",
+		"/Users/katiepratt/Documents/Repos/nativescript/test-proj/app/app-root.xml": "900a386cb2d8abc9573413eb3aff45448dcd3608",
+		"/Users/katiepratt/Documents/Repos/nativescript/test-proj/app/app.css": "c710d62171ac29aeb17464a1d04ca05bd7e30044",
+		"/Users/katiepratt/Documents/Repos/nativescript/test-proj/app/app.js": "387b32c885e41ea8e5d9659f4dee78124af97d00",
+		"/Users/katiepratt/Documents/Repos/nativescript/test-proj/app/main-page.js": "ce43c4822afd11bbd1d87136e43b4793e39658f1",
+		"/Users/katiepratt/Documents/Repos/nativescript/test-proj/app/main-page.xml": "4ca86bd5c92050710004fcfa8f51fde1cfebc415",
+		"/Users/katiepratt/Documents/Repos/nativescript/test-proj/app/main-view-model.js": "f977a52b4fb31fe984415623f7597e914c24750d",
+		"/Users/katiepratt/Documents/Repos/nativescript/test-proj/app/package.json": "554a1e7b09cfa1663c75683765118999cb11411a",
+		"/Users/katiepratt/Documents/Repos/nativescript/test-proj/app/references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848"
+	}
+}

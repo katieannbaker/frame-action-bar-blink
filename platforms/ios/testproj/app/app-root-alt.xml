@@ -1,0 +1,4 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="navigatingTo" loaded="onLoaded" enableSwipeBackNavigation="false" class="page-layout" actionBarHidden="true">
+    <GridLayout id="mainContainer">
+    </GridLayout>
+</Page>
